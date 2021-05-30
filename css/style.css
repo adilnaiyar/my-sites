@@ -191,7 +191,8 @@ img {
 }
 
 /* Features */
-.features-head img {
+.features-head img,
+.dosc-head img {
   width: 200px;
   justify-self: flex-end;
 }
